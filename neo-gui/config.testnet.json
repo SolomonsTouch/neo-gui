@@ -1,0 +1,17 @@
+﻿{
+  "ApplicationConfiguration": {
+    "Paths": {
+      "Chain": "ChainTestNet",
+      "CertCache": "Certs"
+    },
+    "P2P": {
+      "Port": 20333,
+      "WsPort": 20334
+    },
+    "Urls": {
+      "AddressUrl": "http://testnet.antchain.xyz/address/{0}",
+      "AssetUrl": "http://testnet.antchain.xyz/asset/hash/{0}",
+      "TransactionUrl": "http://testnet.antchain.xyz/tx/hash/{0}"
+    }
+  }
+}

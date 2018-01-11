@@ -1,0 +1,17 @@
+﻿{
+  "ApplicationConfiguration": {
+    "Paths": {
+      "Chain": "Chain",
+      "CertCache": "Certs"
+    },
+    "P2P": {
+      "Port": 10333,
+      "WsPort": 10334
+    },
+    "Urls": {
+      "AddressUrl": "https://www.antchain.xyz/address/{0}",
+      "AssetUrl": "https://www.antchain.xyz/asset/hash/{0}",
+      "TransactionUrl": "https://www.antchain.xyz/tx/hash/{0}"
+    }
+  }
+}
